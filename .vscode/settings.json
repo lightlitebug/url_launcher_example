@@ -1,0 +1,14 @@
+{
+  "workbench.colorCustomizations": {
+    "[Remedy - Tilted]": {
+      "editor.background": "#272626",
+      "sideBar.background": "#272626",
+      "terminal.background": "#272626",
+      "terminal.ansiBlack": "#010c16",
+      "terminal.ansiBrightBlack": "#011627"
+    },
+    "activityBar.background": "#3A2930",
+    "titleBar.activeBackground": "#513944",
+    "titleBar.activeForeground": "#FBFAFA"
+  }
+}
